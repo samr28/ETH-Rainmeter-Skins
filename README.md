@@ -10,3 +10,5 @@ To install this, either clone the repo or download it as a zip. Then unzip/enter
 
 ### Donating
 If you enjoy what I make, buy me a covfefe!
+
+ETH: 0x93e5e23df938d42578721fdc2f65b40777351d73
