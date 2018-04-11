@@ -1,0 +1,6 @@
+[Variables]
+; Set the text color below (RGB value)
+textColor=255,255,255,255
+
+; wallet
+walletAddress=YOUR_ADDRESS_HERE

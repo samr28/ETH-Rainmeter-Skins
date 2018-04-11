@@ -1,14 +1,14 @@
 # ETH-Rainmeter-Skins
-A collection of Rainmeter skins that relate to Etherium.
+A collection of Ethereum Rainmeter skins.
 
 Skins:
 * Wallet/Balance
 * Current price of ETH
+* Noobpool
+  * Round share
+  * Short Hash
+  * Workers offline
+  * Workers online
 
 ### Installation
-To install this, either clone the repo or download it as a zip. Then unzip/enter the repo. Finally double click on the `.rmskin` file and it will install to Rainmeter. You can then use it like any other Rainmeter skin.
-
-### Donating
-If you enjoy what I make, buy me a covfefe!
-
-ETH: 0x93e5e23df938d42578721fdc2f65b40777351d73
+To install this, either clone the repo or download it as a zip. Then unzip/enter the repo. Finally double click on the `.rmskin` file and it will install to Rainmeter. Next open up `Appearance.txt` (located in: `Rainmeter/Skins/Etherium/@Resources`). Fill out the wallet address as well as text color (defaults to white).
